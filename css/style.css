@@ -1,0 +1,22 @@
+.champ{
+    padding: 5px;
+    min-height: 42px;
+    min-width: 220px;
+    border:1px solid gray ;
+    border-radius: 10px;
+}
+.button{
+    padding: 10px;
+    margin: 5px;
+    width: 64px;
+    border-radius:10px; 
+    height: 42px;
+}
+.button_connexion{
+    background-color: lightblue;
+    border: 1px solid blue;
+}
+.button_annuler{
+    background-color: lightcoral;
+    border: 1px solid coral;
+}
